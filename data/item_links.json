@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "item_no": "962",
+    "title": "대나무",
+    "url": "https://gggpick.com/api/item/962"
+  },
+  {
+    "item_no": "10620",
+    "title": "천연세제류",
+    "url": "https://gggpick.com/api/item/10620"
+  },
+  {
+    "item_no": "10627",
+    "title": "천연세제세트",
+    "url": "https://gggpick.com/api/item/10627"
+  }
+]
